@@ -5,11 +5,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Authors>Cmoussalli</Authors>
+    <Authors>Caesar Moussalli</Authors>
     <Company />
     <Description>A full-featured .NET library for Etherscan API.</Description>
     <PackageIcon>Etherscan128.png</PackageIcon>
     <PackageTags>Etherscan;Ethereum</PackageTags>
+    <Title>CMouss.Etherscan</Title>
+    <PackageProjectUrl>https://github.com/cmoussalli/CMouss.Etherscan</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cmoussalli/CMouss.Etherscan</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
