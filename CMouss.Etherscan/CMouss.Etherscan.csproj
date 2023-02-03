@@ -13,6 +13,7 @@
     <Title>CMouss.Etherscan</Title>
     <PackageProjectUrl>https://github.com/cmoussalli/CMouss.Etherscan</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cmoussalli/CMouss.Etherscan</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
